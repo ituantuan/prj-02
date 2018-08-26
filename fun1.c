@@ -3,7 +3,7 @@
 char add()
 {
 	char sz[] = "AaBbCcDd";
-	char n=0;
+#	char n=0;
 
 	n = sizeof(sz);
 
